@@ -17,6 +17,8 @@ HKEY_LOCAL_MACHINE \ SOFTWARE \ Microsoft \ SystemCertificates \ SPC \ Certifica
 Then delete everything that is in it.
 
 
+
+
 X: If you using 64Bit;
 HKEY_LOCAL_MACHINE \ SOFTWARE \ Wow6432Node \ KasperskyLab \ LicStorage
 
@@ -32,9 +34,11 @@ Then delete everything that is in it.
 6: When the computer turns on, download and install Kaspersky again from the official site.
 
 
+
 REMEMBER TO TAKE BACKUP OF YOUR COMPUTER I DO NOT ACCEPT RESPONSIBILITY IF YOU DELETE AN INCORRECT FOLDER.
 REMEMBER TO TAKE BACKUP OF YOUR COMPUTER I DO NOT ACCEPT RESPONSIBILITY IF YOU DELETE AN INCORRECT FOLDER.
 REMEMBER TO TAKE BACKUP OF YOUR COMPUTER I DO NOT ACCEPT RESPONSIBILITY IF YOU DELETE AN INCORRECT FOLDER.
+
 
 
 Here's how to tell if your Windows operating system is 32-bit or 64-bit;
