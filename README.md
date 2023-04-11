@@ -1,5 +1,5 @@
 Kaspersky Trial Reset Method. (Antivirus)
-Thanks to this method, you will be able to use Kaspersky without limits.
+ you will be able to use Kaspersky without limits.
 You will only have to download the program again.
 
 1: Uninstall Kaspersky.
